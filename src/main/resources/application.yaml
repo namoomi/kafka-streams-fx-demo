@@ -1,0 +1,9 @@
+kafka:
+  bootstrap-servers: my-kafka:9092
+
+kafka-streams:
+    demo:
+        id: demo
+        paymentInBoundTopic: payment-topic
+        railsKrwOutboundTopic: rails-krw-topic
+        railsUsdOutboundTopic: rails-usd-topic

@@ -1,0 +1,13 @@
+{"paymentId":"1","amount":10,"currency":"KRW","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_KRW"}
+{"paymentId":"2","amount":20,"currency":"KRW","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_KRW"}
+{"paymentId":"3","amount":10,"currency":"USD","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_USD"}
+{"paymentId":"4","amount":20,"currency":"USD","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_USD"}
+{"paymentId":"5","amount":20,"currency":"USD","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_USD"}
+{"paymentId":"6","amount":10,"currency":"KRW","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_XXX"}
+{"paymentId":"7","amount":10,"currency":"USD","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_USD"}
+{"paymentId":"8","amount":15,"currency":"USD","fromAccount":"HIJ-0001","toAccount":"DER-0001","rails":"BANK_RAILS_USD"}
+{"paymentId":"9","amount":10,"currency":"USD","fromAccount":"ABC-0001","toAccount":"DER-0001","rails":"BANK_RAILS_USD"}
+{"paymentId":"10","amount":11,"currency":"USD","fromAccount":"HIJ-0001","toAccount":"DER-0001","rails":"BANK_RAILS_XXX"}
+{"paymentId":"11","amount":11,"currency":"USD","fromAccount":"HIJ-0001","toAccount":"DER-0001","rails":"BANK_RAILS_USD"}
+{"paymentId":"12","amount":20,"currency":"KRW","fromAccount":"EFG-0001","toAccount":"DER-0001","rails":"BANK_RAILS_XXX"}
+{"paymentId":"13","amount":20,"currency":"KRW","fromAccount":"EFG-0001","toAccount":"DER-0001","rails":"BANK_RAILS_KRW"}

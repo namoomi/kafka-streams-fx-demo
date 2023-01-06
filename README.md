@@ -51,3 +51,6 @@ bin/kafka-console-consumer.sh --bootstrap-server my-kafka:9092 \
 http://localhost:8080/v1/kafka-streams/balance/ABC-0001 
 ~~~
 
+---
+참고 
+https://medium.com/lydtech-consulting/kafka-streams-spring-boot-demo-ff0e74e08c9c
